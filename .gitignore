@@ -1,0 +1,21 @@
+# backup
+*~
+*.swp
+
+# erlang
+deps/
+ebin/
+.eunit/
+*.beam
+erl_crash.dump
+
+# rebar
+.rebar/
+
+# idea
+.idea/
+*.iml
+
+# project
+*.zip
+protoc-erl
