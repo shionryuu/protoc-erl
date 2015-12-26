@@ -1,11 +1,13 @@
 # protoc-erl
 
+[![Build Status](https://secure.travis-ci.org/ShionRyuu/protoc-erl.png?branch=master)](http://travis-ci.org/ShionRyuu/protoc-erl)
+
 Escript used to generate erlang protobuf
 
 ## Usage
 
 ```sh
-$./protoc-erl ./proto ./ebin ./include
+$ ./protoc-erl ./proto ./ebin ./include
 
 =INFO REPORT==== 26-Dec-2015::01:08:02 ===
 Writing header file to "./include/simple_pb.hrl"
