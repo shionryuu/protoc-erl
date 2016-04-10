@@ -22,4 +22,8 @@ Writing beam file to "./ebin/simple_pb.beam"
 
 ## License
 
-  [`The MIT License (MIT)`](http://shionryuu.mit-license.org/)
+[`The MIT License (MIT)`](http://shionryuu.mit-license.org/)
+  
+## Update
+  
+As rebar already support src_dirs option, this repository is no longer needed.
